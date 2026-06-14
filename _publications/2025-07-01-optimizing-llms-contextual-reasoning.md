@@ -4,10 +4,11 @@ collection: publications
 category: conferences
 permalink: /publication/2025-07-01-optimizing-llms-contextual-reasoning
 excerpt: 'This paper proposes optimization strategies for LLMs to enhance contextual reasoning across multiple tasks, with empirical results showing superior adaptability in dynamic environments.'
-date: 2025-07-01
-venue: 'Under review at COAI 2025 - Conference on Artificial Intelligence'
+date: 2026-07-01
+venue: 'Proceedings of the 2026 Conference on Artificial Intelligence (COAI 2026)'
 slidesurl: 'http://yourwebsite.com/files/slides-optimizing-llms.pdf'
 paperurl: 'https://example.com/coai-paper'
+codeurl: 'https://github.com/dile45singchope/optimizing-llms-contextual-reasoning'
 bibtexurl: 'http://yourwebsite.com/files/bibtex-optimizing-llms.bib'
-citation: 'John Smith, et al. (2025). "Optimizing Large Language Models for Contextual Reasoning in Multi-Task Environments." <i>Under review at COAI 2025 - Conference on Artificial Intelligence</i>.'
+citation: 'John Smith, et al. (2026). "Optimizing Large Language Models for Contextual Reasoning in Multi-Task Environments." <i>Proceedings of the 2026 Conference on Artificial Intelligence (COAI 2026)</i>.'
 ---
